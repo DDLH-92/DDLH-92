@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Three.js / React / Vue / Php**
 
-- 📫 How to reach me **delaharpe.d@gmail.com**
+- 📫 You can reach me on **delaharpe.d@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
