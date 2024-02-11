@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm David de la Harpe</h1>
 <h3 align="center">A passionate junior web developer from Switzerland 🇨🇭</h3>
 
-- 🔭 I’m currently working **in a Media Company as a web developer in Lausanne**
+- 🔭 I’m currently working **in a Media Company as a web developer and IT support in Lausanne**
 
 - 🌱 I’m currently learning **Three.js / React / Vue / Php**
+
+- 👨‍💻 I have a professional background in **Plumber 🛠/ Business law ⚖️ / Real estate management 🏢**
 
 - 📫 You can reach me on **delaharpe.d@gmail.com**
 
